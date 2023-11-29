@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20191018</CreaDate>
+		<CreaTime>11485400</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>TRUE</SyncOnce>
+	</Esri>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Roads 18</resTitle>
+		</idCitation>
+		<idAbs>The roads found in this dataset were digitized by using a combination of aerial photos (mostly NAIP 2012) and LiDAR, where available. The roads were placed as best as possible to the center of the road based on each of these underlying data sources. Roads were attirbuted with Functional Classifications based on local Transportation System Plans (TSP) when available. The functional classes were then grouped together to aid in their display on Clatsop County WebMaps and for easier use in cartographic representation (i.e. symbology).</idAbs>
+		<idCredit>
+		</idCredit>
+		<idPurp>
+		</idPurp>
+		<resConst>
+			<Consts>
+				<useLimit>
+				</useLimit>
+			</Consts>
+		</resConst>
+	</dataIdInfo>
+</metadata>

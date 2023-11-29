@@ -1,0 +1,1144 @@
+{
+	"DocumentType" : "Index",
+	"MajorVersion" : 1,
+	"MinorVersion" : 0,
+	"PatchVersion" : 0,
+	"NumberOfNodes" : 189,
+	"Nodes" :
+	[
+		{
+			"NodeId" : 0,
+			"NodeType" : "Layer",
+			"FileName" : "map/ground4.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 1,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/5f600b86402a3a0501c7ed6674888fe4.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 2,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/0e882ce2370dcea8afbd5b0a510655cc.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 3,
+			"NodeType" : "Layer",
+			"FileName" : "map/ground7.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 4,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/190f240d4ee34dc2f6222b88a5c58389.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 5,
+			"NodeType" : "Layer",
+			"FileName" : "1c838233e98443a5a603bb1a9e320494.xml",
+			"ChildNodeIds" : "3,4"
+		},
+		{
+			"NodeId" : 6,
+			"NodeType" : "Layer",
+			"FileName" : "2913_sources_for_services/clatsop_dbo_taxlot_accounts.xml",
+			"ChildNodeIds" : "8"
+		},
+		{
+			"NodeId" : 7,
+			"NodeType" : "Layer",
+			"FileName" : "test_services/astoria2010boundingpolygon.xml",
+			"ChildNodeIds" : "97"
+		},
+		{
+			"NodeId" : 8,
+			"NodeType" : "Layer",
+			"FileName" : "map1/ground.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 9,
+			"NodeType" : "Layer",
+			"FileName" : "30d2511ad8954d6db189668953985fe5.xml",
+			"ChildNodeIds" : "12,3"
+		},
+		{
+			"NodeId" : 10,
+			"NodeType" : "Map",
+			"FileName" : "layers/layers.xml",
+			"ChildNodeIds" : "77,79,80,36,81,82,83"
+		},
+		{
+			"NodeId" : 11,
+			"NodeType" : "Layer",
+			"FileName" : "map/ground8.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 12,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/32942e0ac32338e6c926069b7336200f.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 13,
+			"NodeType" : "Layer",
+			"FileName" : "arcgis_utils_unit_test/hyperlinked_surveys.xml",
+			"ChildNodeIds" : "21,11"
+		},
+		{
+			"NodeId" : 14,
+			"NodeType" : "Layer",
+			"FileName" : "map/water__polygons_.xml",
+			"ChildNodeIds" : "59,55"
+		},
+		{
+			"NodeId" : 15,
+			"NodeType" : "Layer",
+			"FileName" : "3f80502ba8c245b6810b120d6f51f814.xml",
+			"ChildNodeIds" : "2,17"
+		},
+		{
+			"NodeId" : 16,
+			"NodeType" : "Layer",
+			"FileName" : "Test_Services/4824936dee72483d8d8f9b922151c038.xml",
+			"ChildNodeIds" : "97"
+		},
+		{
+			"NodeId" : 17,
+			"NodeType" : "Layer",
+			"FileName" : "map/ground6.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 18,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_2913/clatsop_dbo_trails.xml",
+			"ChildNodeIds" : "94"
+		},
+		{
+			"NodeId" : 19,
+			"NodeType" : "Layer",
+			"FileName" : "867d3a31e7a14406a6301331761bc0a6.xml",
+			"ChildNodeIds" : "20,17"
+		},
+		{
+			"NodeId" : 20,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/3388079ba7cee1d9ceca983a9dbe4b0f.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 21,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/1622be056b25dccbaed673e99bb5ee0a.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 22,
+			"NodeType" : "Map",
+			"FileName" : "arcgis_utils_unit_test1/arcgis_utils_unit_test1.xml",
+			"ChildNodeIds" : "24,28,26"
+		},
+		{
+			"NodeId" : 23,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county/plss_polygons.xml",
+			"ChildNodeIds" : "8"
+		},
+		{
+			"NodeId" : 24,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/5fdc87c6d4e34ec17eb6e456df3508a0.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 25,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/96fa757af18960b94faa2934a2621974.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 26,
+			"NodeType" : "Layer",
+			"FileName" : "arcgis_utils_unit_test_registered/clatsop_dbo_surveys.xml",
+			"ChildNodeIds" : "28"
+		},
+		{
+			"NodeId" : 27,
+			"NodeType" : "Map",
+			"FileName" : "basemap/basemap.xml",
+			"ChildNodeIds" : "30,31,32,33"
+		},
+		{
+			"NodeId" : 28,
+			"NodeType" : "Layer",
+			"FileName" : "arcgis_utils_unit_test1/ground.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 29,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/77f3265b82e020700c1f4a3e584b4e9f.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 30,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/ed06b6d2f67588d1f95eb1913e9d0322.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 31,
+			"NodeType" : "Layer",
+			"FileName" : "no_basemap/no_data.xml",
+			"ChildNodeIds" : "140,33"
+		},
+		{
+			"NodeId" : 32,
+			"NodeType" : "Layer",
+			"FileName" : "no_basemap/no_basemap_tile_index.xml",
+			"ChildNodeIds" : "33"
+		},
+		{
+			"NodeId" : 33,
+			"NodeType" : "Layer",
+			"FileName" : "basemap/ground.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 34,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_vector_tile_map2/roads.xml",
+			"ChildNodeIds" : "65,54"
+		},
+		{
+			"NodeId" : 35,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county/plss_polygons__no_sections_.xml",
+			"ChildNodeIds" : "8"
+		},
+		{
+			"NodeId" : 36,
+			"NodeType" : "Layer",
+			"FileName" : "surveys/hyperlinked_surveys.xml",
+			"ChildNodeIds" : "77,139"
+		},
+		{
+			"NodeId" : 37,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_2913/county_boundary.xml",
+			"ChildNodeIds" : "8"
+		},
+		{
+			"NodeId" : 38,
+			"NodeType" : "StandaloneTable",
+			"FileName" : "clatsop_county_2913/clatsop_dbo_surveyimages.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 39,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county/taxcodes.xml",
+			"ChildNodeIds" : "8"
+		},
+		{
+			"NodeId" : 40,
+			"NodeType" : "Layer",
+			"FileName" : "test_vector_tiles_portal_service/vector_tiles.json",
+			"ChildNodeIds" : "143"
+		},
+		{
+			"NodeId" : 41,
+			"NodeType" : "Layer",
+			"FileName" : "test_services/clatsop_county_mapproxy2.xml",
+			"ChildNodeIds" : "97"
+		},
+		{
+			"NodeId" : 42,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_2913/clatsop_dbo_roads.xml",
+			"ChildNodeIds" : "8"
+		},
+		{
+			"NodeId" : 43,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_2913/water_lines.xml",
+			"ChildNodeIds" : "8,157"
+		},
+		{
+			"NodeId" : 44,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_vector_tile_map1/ground.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 45,
+			"NodeType" : "Map",
+			"FileName" : "clatsop_county_vector_tile_map2/clatsop_county_vector_tile_map2.xml",
+			"ChildNodeIds" : "64,34,50,65,66,68,63,162,177"
+		},
+		{
+			"NodeId" : 46,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/36fae4c45e4fd70015576587a3697d0d.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 47,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_2913/water_lines2.xml",
+			"ChildNodeIds" : "8,156"
+		},
+		{
+			"NodeId" : 48,
+			"NodeType" : "Map",
+			"FileName" : "clatsop_county_vector_tile_map1/clatsop_county_vector_tile_map1.xml",
+			"ChildNodeIds" : "50,63,169,44,165,60,167,171,172,163"
+		},
+		{
+			"NodeId" : 49,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/e980404605844f1e76c04f72b97cd44e.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 50,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Thumbnails/84370e54f3e8e55213fdaaa13a8f07a5.dat",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 51,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_basemap_20200305/clatsop_county_parks.xml",
+			"ChildNodeIds" : "53,8"
+		},
+		{
+			"NodeId" : 52,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/b70f7b9052c9c189a4f08b0b8ff7465e.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 53,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/a61698eec76d786bd38208f3f36ee923.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 54,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/4175ad97990cace8589ace3b17041cbd.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 55,
+			"NodeType" : "Layer",
+			"FileName" : "map/ground9.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 56,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_basemap_20200305/water_features__polygons_.xml",
+			"ChildNodeIds" : "1,8"
+		},
+		{
+			"NodeId" : 57,
+			"NodeType" : "Layer",
+			"FileName" : "test_vector_tiles/hwymp.xml",
+			"ChildNodeIds" : "143,152"
+		},
+		{
+			"NodeId" : 58,
+			"NodeType" : "Map",
+			"FileName" : "map/map3.xml",
+			"ChildNodeIds" : "115,117,118,119,120,121,41,7,122,97"
+		},
+		{
+			"NodeId" : 59,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/02964e793c66eb300505ce3e6ee8b3bd.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 60,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_vector_tile_map1/highway_shields.xml",
+			"ChildNodeIds" : "44,174"
+		},
+		{
+			"NodeId" : 61,
+			"NodeType" : "Layer",
+			"FileName" : "edit_sandbox/points_of_interest.xml",
+			"ChildNodeIds" : "67,3"
+		},
+		{
+			"NodeId" : 62,
+			"NodeType" : "Layer",
+			"FileName" : "sandbox/gis_sandbox_sde_surveys.xml",
+			"ChildNodeIds" : "92"
+		},
+		{
+			"NodeId" : 63,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Thumbnails/796821aa85cdac0ff03ab99342ee96a2.dat",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 64,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_vector_tile_map2/parks.xml",
+			"ChildNodeIds" : "65"
+		},
+		{
+			"NodeId" : 65,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_vector_tile_map2/ground.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 66,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_vector_tile_map2/water__polygons_.xml",
+			"ChildNodeIds" : "59,65"
+		},
+		{
+			"NodeId" : 67,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/ea5315bfbdb4aa90854b6ec634ac2e8a.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 68,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_vector_tile_map2/water__lines_.xml",
+			"ChildNodeIds" : "70,65"
+		},
+		{
+			"NodeId" : 69,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/692f32c13a4612a8e4e3306635e89a39.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 70,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/4282ca7655686e8d3ccc6874fe146fc9.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 71,
+			"NodeType" : "Layer",
+			"FileName" : "edit_sandbox/repeater_sites.xml",
+			"ChildNodeIds" : "3"
+		},
+		{
+			"NodeId" : 72,
+			"NodeType" : "Layer",
+			"FileName" : "edit_sandbox/roads.xml",
+			"ChildNodeIds" : "3"
+		},
+		{
+			"NodeId" : 73,
+			"NodeType" : "Layer",
+			"FileName" : "edit_sandbox/surveys_and_subdivisions.xml",
+			"ChildNodeIds" : "3"
+		},
+		{
+			"NodeId" : 74,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/2f7470d5325c1f2d3487dd16f681186a.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 75,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Thumbnails/ba8d3b54d80e9505d70ea80c4e259d11.dat",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 76,
+			"NodeType" : "Layer",
+			"FileName" : "roads_test_bm1/ground.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 77,
+			"NodeType" : "Layer",
+			"FileName" : "layers/ground.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 78,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/5d330402e3a5f92413e6c8f5046fdc78.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 79,
+			"NodeType" : "Layer",
+			"FileName" : "surveys/vector_tiles.xml",
+			"ChildNodeIds" : "77"
+		},
+		{
+			"NodeId" : 80,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/13dff43763bde7d140158e315eb7b5bd.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 81,
+			"NodeType" : "Layer",
+			"FileName" : "surveys/clatsop_dbo_surveys.xml",
+			"ChildNodeIds" : "77,159"
+		},
+		{
+			"NodeId" : 82,
+			"NodeType" : "Layer",
+			"FileName" : "surveys/clatsop_dbo_taxlots_accounts_join.xml",
+			"ChildNodeIds" : "77,69"
+		},
+		{
+			"NodeId" : 83,
+			"NodeType" : "StandaloneTable",
+			"FileName" : "surveys/clatsop_dbo_surveyimages2.xml",
+			"ChildNodeIds" : "160"
+		},
+		{
+			"NodeId" : 84,
+			"NodeType" : "Layout",
+			"FileName" : "layout/publish_surveys2.xml",
+			"ChildNodeIds" : "85,10"
+		},
+		{
+			"NodeId" : 85,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/9a4105fef5981be073cf323824bfed2a.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 86,
+			"NodeType" : "Layout",
+			"FileName" : "layout/tsunami_collector.xml",
+			"ChildNodeIds" : "87,56,88,51,90"
+		},
+		{
+			"NodeId" : 87,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Pictures/9ae36e54921c87856321829fac9ffd47.bmp",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 88,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/df6f6d1fa9677449d5830052e0705817.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 89,
+			"NodeType" : "Map",
+			"FileName" : "vector_tiles1/vector_tiles1.xml",
+			"ChildNodeIds" : "50,113,146,57,145,147,144,143,63,40"
+		},
+		{
+			"NodeId" : 90,
+			"NodeType" : "Map",
+			"FileName" : "map1/map1.xml",
+			"ChildNodeIds" : "18,29,6,42,37,47,23,35,43,56,137,51,39,8,38,138,154,109,161,173"
+		},
+		{
+			"NodeId" : 91,
+			"NodeType" : "Layer",
+			"FileName" : "map/clatsop_dbo_surveys_wfst.xml",
+			"ChildNodeIds" : "17"
+		},
+		{
+			"NodeId" : 92,
+			"NodeType" : "Layer",
+			"FileName" : "map/ground.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 93,
+			"NodeType" : "Layer",
+			"FileName" : "map/ground10.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 94,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/38b049a9ec26cacc4a15301069e583a6.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 95,
+			"NodeType" : "Layer",
+			"FileName" : "map/ground11.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 96,
+			"NodeType" : "Layer",
+			"FileName" : "map/ground2.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 97,
+			"NodeType" : "Layer",
+			"FileName" : "map/ground5.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 98,
+			"NodeType" : "Map",
+			"FileName" : "map/map.xml",
+			"ChildNodeIds" : "99,92,100,101,102,62"
+		},
+		{
+			"NodeId" : 99,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/9c06decc713a5866d2761cca03549248.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 100,
+			"NodeType" : "Layer",
+			"FileName" : "sandbox/gis_sandbox_sde_points_of_interest.xml",
+			"ChildNodeIds" : "141,92"
+		},
+		{
+			"NodeId" : 101,
+			"NodeType" : "Layer",
+			"FileName" : "sandbox/road_labels.xml",
+			"ChildNodeIds" : "52,92"
+		},
+		{
+			"NodeId" : 102,
+			"NodeType" : "Layer",
+			"FileName" : "sandbox/gis_sandbox_sde_repeater_sites.xml",
+			"ChildNodeIds" : "107,92"
+		},
+		{
+			"NodeId" : 103,
+			"NodeType" : "Map",
+			"FileName" : "map/map10.xml",
+			"ChildNodeIds" : "104,105,96,106,108"
+		},
+		{
+			"NodeId" : 104,
+			"NodeType" : "Layer",
+			"FileName" : "map/usgshydrocached__direct_service_.xml",
+			"ChildNodeIds" : "136,96"
+		},
+		{
+			"NodeId" : 105,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/ca5275fdb3eca832560d32c8aa5c1a82.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 106,
+			"NodeType" : "Layer",
+			"FileName" : "usgs_national_hydro_basemap/vector_tile_labels.xml",
+			"ChildNodeIds" : "96"
+		},
+		{
+			"NodeId" : 107,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/6c153f69b4c00d87241ab98ed937c5bf.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 108,
+			"NodeType" : "Layer",
+			"FileName" : "usgs_national_hydro_basemap/vector_tiles.xml",
+			"ChildNodeIds" : "96"
+		},
+		{
+			"NodeId" : 109,
+			"NodeType" : "Layer",
+			"FileName" : "29a99abb376643b596115891928364c8.json",
+			"ChildNodeIds" : "158,8"
+		},
+		{
+			"NodeId" : 110,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/2e0bba3a17a31f5f82b025006b613b8f.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 111,
+			"NodeType" : "Map",
+			"FileName" : "map/map2.xml",
+			"ChildNodeIds" : "50,0,63,75,149,148,151,150,46,176,179,178,182,181,126"
+		},
+		{
+			"NodeId" : 112,
+			"NodeType" : "Layer",
+			"FileName" : "Test_Services/8fd9a036b67c40cbaf06a700b14e7a72.xml",
+			"ChildNodeIds" : "97"
+		},
+		{
+			"NodeId" : 113,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/16ac970089729f43946a055bff7b8fca.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 114,
+			"NodeType" : "Layer",
+			"FileName" : "map/water__lines_.xml",
+			"ChildNodeIds" : "70,55"
+		},
+		{
+			"NodeId" : 115,
+			"NodeType" : "Layer",
+			"FileName" : "test_services/test_data_that_can_be_removed.xml",
+			"ChildNodeIds" : "97"
+		},
+		{
+			"NodeId" : 116,
+			"NodeType" : "Map",
+			"FileName" : "map/map6.xml",
+			"ChildNodeIds" : "24,11,13"
+		},
+		{
+			"NodeId" : 117,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/fab91227a57fd9d5feb068197c75c71d.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 118,
+			"NodeType" : "Layer",
+			"FileName" : "test_services/vector_tile_service.xml",
+			"ChildNodeIds" : "110,97"
+		},
+		{
+			"NodeId" : 119,
+			"NodeType" : "Layer",
+			"FileName" : "Test_Services/1f787c50ea634785b9d632e278404cf3.xml",
+			"ChildNodeIds" : "25,16,112,97"
+		},
+		{
+			"NodeId" : 120,
+			"NodeType" : "Layer",
+			"FileName" : "test_services/astoria2004boundingpolygon.xml",
+			"ChildNodeIds" : "97"
+		},
+		{
+			"NodeId" : 121,
+			"NodeType" : "Layer",
+			"FileName" : "test_services/astoria2015boundingpolygon.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 122,
+			"NodeType" : "Layer",
+			"FileName" : "test_services/clatsop_county_mapproxy.xml",
+			"ChildNodeIds" : "97"
+		},
+		{
+			"NodeId" : 123,
+			"NodeType" : "Map",
+			"FileName" : "map/map4.xml",
+			"ChildNodeIds" : "17,124,15,91,19"
+		},
+		{
+			"NodeId" : 124,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/6dd7982dfbb69cac878bd8cc6edb228a.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 125,
+			"NodeType" : "Map",
+			"FileName" : "map/map5.xml",
+			"ChildNodeIds" : "72,127,9,71,73,61,3,5"
+		},
+		{
+			"NodeId" : 126,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tiles/county_boundary.json",
+			"ChildNodeIds" : "164,0"
+		},
+		{
+			"NodeId" : 127,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/6d183afdced170a4897928fcbcf497e2.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 128,
+			"NodeType" : "Map",
+			"FileName" : "map/map7.xml",
+			"ChildNodeIds" : "114,129,130,55,14,131"
+		},
+		{
+			"NodeId" : 129,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/605b88b1f67562ba8766c809f72af68f.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 130,
+			"NodeType" : "Layer",
+			"FileName" : "map/roads_2.xml",
+			"ChildNodeIds" : "55"
+		},
+		{
+			"NodeId" : 131,
+			"NodeType" : "Layer",
+			"FileName" : "map/parks.xml",
+			"ChildNodeIds" : "55"
+		},
+		{
+			"NodeId" : 132,
+			"NodeType" : "Map",
+			"FileName" : "map/map8.xml",
+			"ChildNodeIds" : "133,93"
+		},
+		{
+			"NodeId" : 133,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/32235e06f3ed651e09436d6fb00eb006.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 134,
+			"NodeType" : "Map",
+			"FileName" : "map/map9.xml",
+			"ChildNodeIds" : "95,135"
+		},
+		{
+			"NodeId" : 135,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/7db35a5741fb1ddfd5f1a2faccd65c67.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 136,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/ebdca17dacf553b8eee6aa8e4b60d225.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 137,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Thumbnails/fb9de1941bd89a59ec039facd5557133.dat",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 138,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Thumbnails/fb055d0b2e270237c19120321ad5be32.dat",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 139,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/06f5e2c57deda012dc65bb8ea846d175.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 140,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/28af20a26b2beef8d3259e7299afe4cc.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 141,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/fdedc6eac0f8f07a7752c172d4dc25d7.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 142,
+			"NodeType" : "Map",
+			"FileName" : "roads_test_bm1/roads_test_bm1.xml",
+			"ChildNodeIds" : "49,186,187,183,188,76"
+		},
+		{
+			"NodeId" : 143,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tiles1/ground.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 144,
+			"NodeType" : "Layer",
+			"FileName" : "test_vector_tiles/unlabeled_vector_tiles.xml",
+			"ChildNodeIds" : "143"
+		},
+		{
+			"NodeId" : 145,
+			"NodeType" : "Layer",
+			"FileName" : "test_vector_tiles/vector_tile_labels.xml",
+			"ChildNodeIds" : "143"
+		},
+		{
+			"NodeId" : 146,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tiles1/parks.xml",
+			"ChildNodeIds" : "143"
+		},
+		{
+			"NodeId" : 147,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tiles1/water__polygons_.xml",
+			"ChildNodeIds" : "59,143"
+		},
+		{
+			"NodeId" : 148,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tiles/parks.json",
+			"ChildNodeIds" : "0,78"
+		},
+		{
+			"NodeId" : 149,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tiles/roads.json",
+			"ChildNodeIds" : "0,175"
+		},
+		{
+			"NodeId" : 150,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tiles/water__lines_.json",
+			"ChildNodeIds" : "70,0"
+		},
+		{
+			"NodeId" : 151,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tiles/water__polygons_.json",
+			"ChildNodeIds" : "59,0"
+		},
+		{
+			"NodeId" : 152,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/819f7dacc81c3d19d396317593c4524d.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 153,
+			"NodeType" : "BinaryReference",
+			"FileName" : "glTFMarker3D/4306e947cd80b6b26aa1fee2a705f088.dat",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 154,
+			"NodeType" : "Layer",
+			"FileName" : "2913_sources_for_services/clatsop_dbo_points_of_interest.json",
+			"ChildNodeIds" : "8,155,153"
+		},
+		{
+			"NodeId" : 155,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/362150b3b201a5db5a83afd3fe6b13ab.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 156,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/b873fa483bf4aefacfe029a9d0b7a49a.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 157,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/ddb05a04101fe6bef82dc1951631bf14.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 158,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/8d17b1b17e1273c3de4913e377fd8b43.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 159,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/c53ecf251f07a87d1b0b4dbfaa393a74.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 160,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/f0da24daeefdab96b7c19ac7d7cdb2b4.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 161,
+			"NodeType" : "Layer",
+			"FileName" : "2913_sources_for_services/hillshades_from_dogami_lidar.json",
+			"ChildNodeIds" : "8"
+		},
+		{
+			"NodeId" : 162,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/704b5b9523497e3d84363758ae95ac6a.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 163,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_vector_tile_map1/county_boundary.xml",
+			"ChildNodeIds" : "164,44"
+		},
+		{
+			"NodeId" : 164,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/1473efc3c822d2627da26c511125b2ab.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 165,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_vector_tile_map1/park_labels.xml",
+			"ChildNodeIds" : "166,44"
+		},
+		{
+			"NodeId" : 166,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/b99a4a562d001028f67126be30620c68.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 167,
+			"NodeType" : "Layer",
+			"FileName" : "clatsop_county_vector_tile_map1/water_labels.xml",
+			"ChildNodeIds" : "168,44"
+		},
+		{
+			"NodeId" : 168,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/d361b9f1a9eae1618c357c085c5ebb58.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 169,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/4bbf5fe87dfca1a6371eea54e95206e5.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 170,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/9beada5132f124c3b3667297a9230c70.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 171,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tile_labels/road_labels.json",
+			"ChildNodeIds" : "52,44"
+		},
+		{
+			"NodeId" : 172,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tile_labels/trails.xml",
+			"ChildNodeIds" : "170"
+		},
+		{
+			"NodeId" : 173,
+			"NodeType" : "Layer",
+			"FileName" : "2913_sources_for_services/usgshydrocached__direct_service_.json",
+			"ChildNodeIds" : "136,8"
+		},
+		{
+			"NodeId" : 174,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/643d43791ed0852d6b8b1d482fcc1471.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 175,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/fbdcebb54606e559b0f235e088a315eb.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 176,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tiles/highway_shields.json",
+			"ChildNodeIds" : "174,0"
+		},
+		{
+			"NodeId" : 177,
+			"NodeType" : "Layer",
+			"FileName" : "unlabeled_vector_tiles/trails.json",
+			"ChildNodeIds" : "180"
+		},
+		{
+			"NodeId" : 178,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tiles/park_labels.json",
+			"ChildNodeIds" : "166,0"
+		},
+		{
+			"NodeId" : 179,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tiles/road_labels.json",
+			"ChildNodeIds" : "52,0"
+		},
+		{
+			"NodeId" : 180,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/04f1e4abd514706d6a5c6bfa93abefa3.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 181,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tiles/trails.json",
+			"ChildNodeIds" : "180"
+		},
+		{
+			"NodeId" : 182,
+			"NodeType" : "Layer",
+			"FileName" : "vector_tiles/water_labels.json",
+			"ChildNodeIds" : "0,168"
+		},
+		{
+			"NodeId" : 183,
+			"NodeType" : "Layer",
+			"FileName" : "f7e48bcb8ea94920bfb2b00960b2132a.xml",
+			"ChildNodeIds" : "74,76"
+		},
+		{
+			"NodeId" : 184,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/06eec71ba26d3f1e68bf94e87df554b2.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 185,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/2f07ccf0622579f80ed7c52677314c50.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 186,
+			"NodeType" : "Layer",
+			"FileName" : "roads_test_bm1/roads__popups_.xml",
+			"ChildNodeIds" : "76,184"
+		},
+		{
+			"NodeId" : 187,
+			"NodeType" : "Layer",
+			"FileName" : "roads_test_bm1/roads_by_jurisdiction.xml",
+			"ChildNodeIds" : "76,185"
+		},
+		{
+			"NodeId" : 188,
+			"NodeType" : "Layer",
+			"FileName" : "roads_test_bm1/trails__popups_.xml",
+			"ChildNodeIds" : "170"
+		}
+	]
+}
