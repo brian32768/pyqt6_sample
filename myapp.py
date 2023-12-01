@@ -34,8 +34,7 @@ class MainWindow(QtWidgets.QWidget):
         self.ui.treeView.setModel(model)
 
         self.ui.pushButton.clicked.connect(self.buttonClicked)
-
-        #self.ui.show()
+        self.ui.show()
 
     def buttonClicked(self):
 
@@ -51,5 +50,5 @@ if __name__ == "__main__":
     app = QtWidgets.QApplication([])
     ui = loader.load("myfirstui.ui", None)
     main = MainWindow(ui)
-    main.show()
+    #main.show()
     sys.exit(app.exec())
