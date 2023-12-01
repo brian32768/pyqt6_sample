@@ -1,7 +1,6 @@
 import sys
-from PyQt6.QtWidgets import QApplication, QWidget, QPushButton, QMessageBox, QLabel, QFileDialog
-from PyQt6.QtGui import QFont
-
+from PySide6.QtCore import Qt
+from PySide6.QtWidgets import QApplication, QWidget, QPushButton, QFileDialog, QMessageBox
 class thingie(QWidget):
     def __init__(self):
         super().__init__()

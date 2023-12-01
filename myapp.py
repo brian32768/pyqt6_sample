@@ -1,8 +1,6 @@
 import sys
-from PyQt6.QtWidgets import (QApplication, QWidget)
-from PyQt6.QtCore import Qt
-from PyQt6.QtGui import QIntValidator
-from myfirstui import Ui_MainWindow
+from PySide6 import QtCore, QtGui, QtWidgets
+from PySide6.QtUiTools import QUiLoader
 
 mylist = [
     '1',
@@ -10,36 +8,48 @@ mylist = [
     '3'
 ]
 
-mymap = [
+mymap = {
     "name": "e911",
-    "layer": {
-        "name": "Points of interest",
-        "source": "database"
-    },
-    "layer": {
-        "name": "Communication sites",
-        "source": "database"
-    },
-]
+    "layers": [
+        {
+            "name": "Points of interest",
+            "source": "database"
+        },
+        {
+            "name": "Communication sites",
+            "source": "database"
+        }
+    ]
+}
 
-class MainWindow(QWidget):
-    def __init__(self):
+
+class MainWindow(QtWidgets.QWidget):
+    def __init__(self, ui):
         super().__init__()
-        self.ui = Ui_MainWindow()
-        self.ui.setupUi(self)
+        self.ui = ui
+
+        # https://doc.qt.io/qtforpython-6/PySide6/QtWidgets/QFileSystemModel.html
+        model = QtWidgets.QFileSystemModel()
+        model.setRootPath(QtCore.QDir.currentPath())
+        self.ui.treeView.setModel(model)
 
         self.ui.pushButton.clicked.connect(self.buttonClicked)
 
-        self.show()
+        #self.ui.show()
 
     def buttonClicked(self):
+
         for item in mylist:
             self.ui.listWidget.addItem(item)
-        for item in mylist:
-            self.ui.treeView.addItem(item)
+                
         print("Click!")
 
+
 if __name__ == "__main__":
-    app = QApplication(sys.argv)
-    main = MainWindow()
+
+    loader = QUiLoader()
+    app = QtWidgets.QApplication([])
+    ui = loader.load("myfirstui.ui", None)
+    main = MainWindow(ui)
+    main.show()
     sys.exit(app.exec())
